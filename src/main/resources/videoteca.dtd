@@ -1,0 +1,17 @@
+<¡DOCTYPE videoteca [
+	
+	<¡ELEMENT videoteca(nombre, ubicacion, pelicula+, fechaActualizacion)>
+	<¡ELEMENT nombre(#PCDATA)>
+	<¡ELEMENT ubicacion(#PCDATA)>
+	<¡ELEMENT fechaActualizacion(#PCDATA)>
+	
+	<¡ELEMENT pelicula(titulo, sinopsis, reparto, genero?, enlace)>
+	<¡ELEMENT titulo(#PCDATA)>
+	<¡ELEMENT sinopsis(#PCDATA)>
+	<¡ELEMENT reparto(actor+)>
+	<¡ELEMENT genero(#PCDATA)>
+	<¡ELEMENT enlace(#PCDATA)>
+	
+	<¡ELEMENT actor(nombre, enlace)>
+
+]>
