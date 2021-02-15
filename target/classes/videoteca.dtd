@@ -1,10 +1,11 @@
 <!DOCTYPE videoteca [
 	
-	<!ELEMENT videoteca(nombre, ubicacion, pelicula+, fechaActualizacion)>
+	<!ELEMENT videoteca(nombre, ubicacion, peliculas, fechaActualizacion)>
 	<!ELEMENT nombre(#PCDATA)>
 	<!ELEMENT ubicacion(#PCDATA)>
 	<!ELEMENT fechaActualizacion(#PCDATA)>
 	
+	<!ELEMENT peliculas(pelicula+)>
 	<!ELEMENT pelicula(titulo, sinopsis, reparto, genero?, enlace)>
 	<!ATTLIST pelicula id ID #REQUIRED>
 	<!ATTLIST pelicula duracion CDATA #REQUIRED>
