@@ -1,17 +1,22 @@
-<¡DOCTYPE videoteca [
+<!DOCTYPE videoteca [
 	
-	<¡ELEMENT videoteca(nombre, ubicacion, pelicula+, fechaActualizacion)>
-	<¡ELEMENT nombre(#PCDATA)>
-	<¡ELEMENT ubicacion(#PCDATA)>
-	<¡ELEMENT fechaActualizacion(#PCDATA)>
+	<!ELEMENT videoteca(nombre, ubicacion, pelicula+, fechaActualizacion)>
+	<!ELEMENT nombre(#PCDATA)>
+	<!ELEMENT ubicacion(#PCDATA)>
+	<!ELEMENT fechaActualizacion(#PCDATA)>
 	
-	<¡ELEMENT pelicula(titulo, sinopsis, reparto, genero?, enlace)>
-	<¡ELEMENT titulo(#PCDATA)>
-	<¡ELEMENT sinopsis(#PCDATA)>
-	<¡ELEMENT reparto(actor+)>
-	<¡ELEMENT genero(#PCDATA)>
-	<¡ELEMENT enlace(#PCDATA)>
+	<!ELEMENT pelicula(titulo, sinopsis, reparto, genero?, enlace)>
+	<!ATTLIST pelicula id ID #REQUIRED>
+	<!ATTLIST pelicula duracion CDATA #REQUIRED>
+	<!ATTLIST pelicula añoEstreno CDATA #REQUIRED>
+	<!ATTLIST pelicula pais CDATA>
+	<!ATTLIST pelicula presupuesto CDATA>
+	<!ELEMENT titulo(#PCDATA)>
+	<!ELEMENT sinopsis(#PCDATA)>
+	<!ELEMENT reparto(actor+)>
+	<!ELEMENT genero(#PCDATA)>
+	<!ELEMENT enlace(#PCDATA)>
 	
-	<¡ELEMENT actor(nombre, enlace)>
+	<!ELEMENT actor(nombre, enlace)>
 
 ]>
