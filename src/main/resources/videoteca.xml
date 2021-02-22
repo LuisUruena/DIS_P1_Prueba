@@ -4,109 +4,140 @@
 
 <videoteca>
 
-<nombre>Peliculas de Quentin Tarantino</nombre>
-<fechaActualizacion>15/02/2021</fechaActualizacion>
-<ubicacion>Blog de Pepe</ubicacion>
+	<nombre>Peliculas de Quentin Tarantino</nombre>
+	<ubicacion>Blog de Pepe</ubicacion>
 
-<peliculas>
+	<peliculas>
 
-	<pelicula>
-		<titulo> Pulp Fiction </titulo>
-		<sinopsis>Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.</sinopsis>  
-		<reparto>
-			<actor>
-				<nombre>Uma Thurman</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Uma_Thurman</enlace>
+		<pelicula id="001" duracion="154" anioEstreno="1994">
+			<titulo> Pulp Fiction </titulo>
+			<sinopsis>Las vidas de dos mafiosos, un boxeador, la esposa de un
+				gánster y un par de bandidos se entrelazan en cuatro historias de
+				violencia y redención.</sinopsis>
+			<reparto>
+				<actor>
+					<nombre>Uma Thurman</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Uma_Thurman</enlace>
+				</actor>
 				
-				<nombre>John Travolta</nombre>
-				<enlace>https://es.wikipedia.org/wiki/John_Travolta</enlace>
-				
-				<nombre>Samuel L. Jackson</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Samuel_L._Jackson</enlace>
-			</actor>
-		</reparto>
-		<genero>Crimen</genero>
-		<enlace>https://www.imdb.com/title/tt0110912/</enlace>
-	</pelicula>
+				<actor>
+					<nombre>John Travolta</nombre>
+					<enlace>https://es.wikipedia.org/wiki/John_Travolta</enlace>
+				</actor>
 
-	<pelicula>
-		<titulo> Kill Bill Vol.1 </titulo>
-		<sinopsis>Tras despertar de un coma de cuatro años, una antigua asesina se venga del grupo de asesinos que la traicionó.</sinopsis>  
-		<reparto>
-			<actor>
-				<nombre>Uma Thurman</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Uma_Thurman</enlace>
-				
-				<nombre>David Carradine</nombre>
-				<enlace>https://es.wikipedia.org/wiki/David_Carradine</enlace>
-				
-				<nombre>Lucy Liu</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Lucy_Liu</enlace>
-			</actor>
-		</reparto>
-		<genero>Acción</genero>
-		<enlace>https://www.imdb.com/title/tt0266697/</enlace>
-	</pelicula>
+				<actor>
+					<nombre>Samuel L. Jackson</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Samuel_L._Jackson</enlace>
+				</actor>
+			</reparto>
+			<genero>Crimen</genero>
+			<enlace>https://www.imdb.com/title/tt0110912/</enlace>
+		</pelicula>
 
-	<pelicula>
-		<titulo> Django Unchained </titulo>
-		<sinopsis>Con la ayuda de un cazarecompensas alemán, un esclavo liberado intenta rescatar a su esposa del brutal propietario en una plantación de Mississippi.</sinopsis>  
-		<reparto>
-			<actor>
-				<nombre>Jamie Foxx</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Jamie_Foxx</enlace>
+		<pelicula id="002" duracion="110" anioEstreno="2003">
+			<titulo> Kill Bill Vol.1 </titulo>
+			<sinopsis>Tras despertar de un coma de cuatro años, una antigua
+				asesina se venga del grupo de asesinos que la traicionó.</sinopsis>
+			<reparto>
+				<actor>
+					<nombre>Uma Thurman</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Uma_Thurman</enlace>
+				</actor>
 				
-				<nombre>Christoph Waltz</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Christoph_Waltz</enlace>
+				<actor>
+					<nombre>David Carradine</nombre>
+					<enlace>https://es.wikipedia.org/wiki/David_Carradine</enlace>
+				</actor>
 				
-				<nombre>Leonardo DiCaprio</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Leonardo_DiCaprio</enlace>
-			</actor>
-		</reparto>
-		<genero>Western</genero>
-		<enlace>https://www.imdb.com/title/tt1853728/</enlace>
-	</pelicula>
+				<actor>
+					<nombre>Lucy Liu</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Lucy_Liu</enlace>
+				</actor>
+			</reparto>
+			<genero>Acción</genero>
+			<enlace>https://www.imdb.com/title/tt0266697/</enlace>
+		</pelicula>
+
+		<pelicula id="003" duracion="170" anioEstreno="2012">
+			<titulo> Django Unchained </titulo>
+			<sinopsis>Con la ayuda de un cazarecompensas alemán, un esclavo
+				liberado intenta rescatar a su esposa del brutal propietario en una
+				plantación de Mississippi.</sinopsis>
+			<reparto>
+				<actor>
+					<nombre>Jamie Foxx</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Jamie_Foxx</enlace>
+				</actor>
+				
+				<actor>
+					<nombre>Christoph Waltz</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Christoph_Waltz</enlace>
+				</actor>
+				
+				<actor>
+					<nombre>Leonardo DiCaprio</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Leonardo_DiCaprio</enlace>
+				</actor>
+			</reparto>
+			<genero>Western</genero>
+			<enlace>https://www.imdb.com/title/tt1853728/</enlace>
+		</pelicula>
+
+		<pelicula id="004" duracion="153" anioEstreno="2009">
+			<titulo> Inglorious Basterds </titulo>
+			<sinopsis>En la Francia ocupada por los nazis durante la Segunda
+				Guerra Mundial, un plan para asesinar líderes nazis por parte de un
+				grupo de soldados judíos estadounidenses coincide con los planes
+				vengativos de la propietaria de un teatro con el mismo fin.</sinopsis>
+			<reparto>
+				<actor>
+					<nombre>Brad Pitt</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Brad_Pitt</enlace>
+				</actor>
+				
+				<actor>
+					<nombre>Christoph Waltz</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Christoph_Waltz</enlace>
+				</actor>
+				
+				<actor>
+					<nombre>Diane Kruger</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Diane_Kruger</enlace>
+				</actor>
+			</reparto>
+			<genero>War</genero>
+			<enlace>https://www.imdb.com/title/tt0361748/</enlace>
+		</pelicula>
+
+		<pelicula id="005" duracion="160" anioEstreno="2019">
+			<titulo> Once Upon a Time... in Hollywood </titulo>
+			<sinopsis>Un actor de TV olvidado y su doble se embarcan en una
+				odisea para forjarse un nombre en la industria del cine durante el
+				reinado de terror de Helter Skelter en el Los Ángeles de 1969.</sinopsis>
+			<reparto>
+				<actor>
+					<nombre>Brad Pitt</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Brad_Pitt</enlace>
+				</actor>
+				
+				<actor>
+					<nombre>Margot Robbie</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Margot_Robbie</enlace>
+				</actor>
+				
+				<actor>
+					<nombre>Leonardo DiCaprio</nombre>
+					<enlace>https://es.wikipedia.org/wiki/Leonardo_DiCaprio</enlace>
+				</actor>
+			</reparto>
+			<genero>Comedy</genero>
+			<enlace>https://www.imdb.com/title/tt7131622/</enlace>
+		</pelicula>
+
+
+	</peliculas>
 	
-	<pelicula>
-		<titulo> Inglorious Basterds </titulo>
-		<sinopsis>En la Francia ocupada por los nazis durante la Segunda Guerra Mundial, un plan para asesinar líderes nazis por parte de un grupo de soldados judíos estadounidenses coincide con los planes vengativos de la propietaria de un teatro con el mismo fin.</sinopsis>  
-		<reparto>
-			<actor>
-				<nombre>Brad Pitt</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Brad_Pitt</enlace>
-				
-				<nombre>Christoph Waltz</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Christoph_Waltz</enlace>
-				
-				<nombre>Diane Kruger</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Diane_Kruger</enlace>
-			</actor>
-		</reparto>
-		<genero>War</genero>
-		<enlace>https://www.imdb.com/title/tt0361748/</enlace>
-	</pelicula>
-	
-	<pelicula>
-		<titulo> Once Upon a Time... in Hollywood </titulo>
-		<sinopsis>Un actor de TV olvidado y su doble se embarcan en una odisea para forjarse un nombre en la industria del cine durante el reinado de terror de Helter Skelter en el Los Ángeles de 1969.</sinopsis>  
-		<reparto>
-			<actor>
-				<nombre>Brad Pitt</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Brad_Pitt</enlace>
-				
-				<nombre>Margot Robbie</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Margot_Robbie</enlace>
-				
-				<nombre>Leonardo DiCaprio</nombre>
-				<enlace>https://es.wikipedia.org/wiki/Leonardo_DiCaprio</enlace>
-			</actor>
-		</reparto>
-		<genero>Comedy</genero>
-		<enlace>https://www.imdb.com/title/tt7131622/</enlace>
-	</pelicula>
-	
-
-</peliculas>
+	<fechaActualizacion>15/02/2021</fechaActualizacion>
 
 
 </videoteca>
