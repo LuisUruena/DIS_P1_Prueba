@@ -1,0 +1,129 @@
+{
+  "nombre": "Peliculas de Quentin Tarantino",
+  "ubicacion": "Blog de Pepe",
+  "peliculas": [
+    {
+      "id": "001",
+      "duracion": 154,
+      "anioEstreno": 1994,
+      "presupuesto": -1,
+      "titulo": " Pulp Fiction ",
+      "sinopsis": "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+      "reparto": [
+        {
+          "nombre": "Uma Thurman",
+          "enlace": "https://es.wikipedia.org/wiki/Uma_Thurman"
+        },
+        {
+          "nombre": "John Travolta",
+          "enlace": "https://es.wikipedia.org/wiki/John_Travolta"
+        },
+        {
+          "nombre": "Samuel L. Jackson",
+          "enlace": "https://es.wikipedia.org/wiki/Samuel_L._Jackson"
+        }
+      ],
+      "genero": "Crimen",
+      "enlace": "https://es.wikipedia.org/wiki/Uma_Thurman"
+    },
+    {
+      "id": "002",
+      "duracion": 110,
+      "anioEstreno": 2003,
+      "presupuesto": 55000000,
+      "titulo": " Kill Bill Vol.1 ",
+      "sinopsis": "Tras despertar de un coma de cuatro años, una antigua asesina se venga del grupo de asesinos que la traicionó.",
+      "reparto": [
+        {
+          "nombre": "Uma Thurman",
+          "enlace": "https://es.wikipedia.org/wiki/Uma_Thurman"
+        },
+        {
+          "nombre": "David Carradine",
+          "enlace": "https://es.wikipedia.org/wiki/David_Carradine"
+        },
+        {
+          "nombre": "Lucy Liu",
+          "enlace": "https://es.wikipedia.org/wiki/Lucy_Liu"
+        }
+      ],
+      "genero": "Acción",
+      "enlace": "https://es.wikipedia.org/wiki/Uma_Thurman"
+    },
+    {
+      "id": "003",
+      "duracion": 170,
+      "anioEstreno": 2012,
+      "pais": "EEUU",
+      "presupuesto": -1,
+      "titulo": " Django Unchained ",
+      "sinopsis": "Con la ayuda de un cazarecompensas alemán, un esclavo liberado intenta rescatar a su esposa del brutal propietario en una plantación de Mississippi.",
+      "reparto": [
+        {
+          "nombre": "Jamie Foxx",
+          "enlace": "https://es.wikipedia.org/wiki/Jamie_Foxx"
+        },
+        {
+          "nombre": "Christoph Waltz",
+          "enlace": "https://es.wikipedia.org/wiki/Christoph_Waltz"
+        },
+        {
+          "nombre": "Leonardo DiCaprio",
+          "enlace": "https://es.wikipedia.org/wiki/Leonardo_DiCaprio"
+        }
+      ],
+      "genero": "Western",
+      "enlace": "https://es.wikipedia.org/wiki/Jamie_Foxx"
+    },
+    {
+      "id": "004",
+      "duracion": 153,
+      "anioEstreno": 2009,
+      "presupuesto": -1,
+      "titulo": " Inglorious Basterds ",
+      "sinopsis": "En la Francia ocupada por los nazis durante la Segunda Guerra Mundial, un plan para asesinar líderes nazis por parte de un grupo de soldados judíos estadounidenses coincide con los planes vengativos de la propietaria de un teatro con el mismo fin.",
+      "reparto": [
+        {
+          "nombre": "Brad Pitt",
+          "enlace": "https://es.wikipedia.org/wiki/Brad_Pitt"
+        },
+        {
+          "nombre": "Christoph Waltz",
+          "enlace": "https://es.wikipedia.org/wiki/Christoph_Waltz"
+        },
+        {
+          "nombre": "Diane Kruger",
+          "enlace": "https://es.wikipedia.org/wiki/Diane_Kruger"
+        }
+      ],
+      "genero": "War",
+      "enlace": "https://es.wikipedia.org/wiki/Brad_Pitt"
+    },
+    {
+      "id": "005",
+      "duracion": 160,
+      "anioEstreno": 2019,
+      "pais": "EEUU",
+      "presupuesto": 90000000,
+      "titulo": " Once Upon a Time... in Hollywood ",
+      "sinopsis": "Un actor de TV olvidado y su doble se embarcan en una odisea para forjarse un nombre en la industria del cine durante el reinado de terror de Helter Skelter en el Los Ángeles de 1969.",
+      "reparto": [
+        {
+          "nombre": "Brad Pitt",
+          "enlace": "https://es.wikipedia.org/wiki/Brad_Pitt"
+        },
+        {
+          "nombre": "Margot Robbie",
+          "enlace": "https://es.wikipedia.org/wiki/Margot_Robbie"
+        },
+        {
+          "nombre": "Leonardo DiCaprio",
+          "enlace": "https://es.wikipedia.org/wiki/Leonardo_DiCaprio"
+        }
+      ],
+      "genero": "Comedy",
+      "enlace": "https://es.wikipedia.org/wiki/Brad_Pitt"
+    }
+  ],
+  "fechaActualizacion": "15/02/2021"
+}

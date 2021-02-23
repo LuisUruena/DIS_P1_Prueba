@@ -11,9 +11,7 @@
 
 		<pelicula id="001" duracion="154" anioEstreno="1994">
 			<titulo> Pulp Fiction </titulo>
-			<sinopsis>Las vidas de dos mafiosos, un boxeador, la esposa de un
-				gánster y un par de bandidos se entrelazan en cuatro historias de
-				violencia y redención.</sinopsis>
+			<sinopsis>Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.</sinopsis>
 			<reparto>
 				<actor>
 					<nombre>Uma Thurman</nombre>
@@ -34,10 +32,9 @@
 			<enlace>https://www.imdb.com/title/tt0110912/</enlace>
 		</pelicula>
 
-		<pelicula id="002" duracion="110" anioEstreno="2003">
+		<pelicula id="002" duracion="110" anioEstreno="2003" presupuesto="55000000">
 			<titulo> Kill Bill Vol.1 </titulo>
-			<sinopsis>Tras despertar de un coma de cuatro años, una antigua
-				asesina se venga del grupo de asesinos que la traicionó.</sinopsis>
+			<sinopsis>Tras despertar de un coma de cuatro años, una antigua asesina se venga del grupo de asesinos que la traicionó.</sinopsis>
 			<reparto>
 				<actor>
 					<nombre>Uma Thurman</nombre>
@@ -58,11 +55,9 @@
 			<enlace>https://www.imdb.com/title/tt0266697/</enlace>
 		</pelicula>
 
-		<pelicula id="003" duracion="170" anioEstreno="2012">
+		<pelicula id="003" duracion="170" anioEstreno="2012" pais="EEUU">
 			<titulo> Django Unchained </titulo>
-			<sinopsis>Con la ayuda de un cazarecompensas alemán, un esclavo
-				liberado intenta rescatar a su esposa del brutal propietario en una
-				plantación de Mississippi.</sinopsis>
+			<sinopsis>Con la ayuda de un cazarecompensas alemán, un esclavo liberado intenta rescatar a su esposa del brutal propietario en una plantación de Mississippi.</sinopsis>
 			<reparto>
 				<actor>
 					<nombre>Jamie Foxx</nombre>
@@ -85,10 +80,7 @@
 
 		<pelicula id="004" duracion="153" anioEstreno="2009">
 			<titulo> Inglorious Basterds </titulo>
-			<sinopsis>En la Francia ocupada por los nazis durante la Segunda
-				Guerra Mundial, un plan para asesinar líderes nazis por parte de un
-				grupo de soldados judíos estadounidenses coincide con los planes
-				vengativos de la propietaria de un teatro con el mismo fin.</sinopsis>
+			<sinopsis>En la Francia ocupada por los nazis durante la Segunda Guerra Mundial, un plan para asesinar líderes nazis por parte de un grupo de soldados judíos estadounidenses coincide con los planes vengativos de la propietaria de un teatro con el mismo fin.</sinopsis>
 			<reparto>
 				<actor>
 					<nombre>Brad Pitt</nombre>
@@ -109,11 +101,9 @@
 			<enlace>https://www.imdb.com/title/tt0361748/</enlace>
 		</pelicula>
 
-		<pelicula id="005" duracion="160" anioEstreno="2019">
+		<pelicula id="005" duracion="160" anioEstreno="2019" pais="EEUU" presupuesto="90000000">
 			<titulo> Once Upon a Time... in Hollywood </titulo>
-			<sinopsis>Un actor de TV olvidado y su doble se embarcan en una
-				odisea para forjarse un nombre en la industria del cine durante el
-				reinado de terror de Helter Skelter en el Los Ángeles de 1969.</sinopsis>
+			<sinopsis>Un actor de TV olvidado y su doble se embarcan en una odisea para forjarse un nombre en la industria del cine durante el reinado de terror de Helter Skelter en el Los Ángeles de 1969.</sinopsis>
 			<reparto>
 				<actor>
 					<nombre>Brad Pitt</nombre>
